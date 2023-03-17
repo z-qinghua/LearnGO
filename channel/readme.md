@@ -1,0 +1,1 @@
+关于channel的详细解读：[深入学习 Go 并发编程之通道（Channel）](https://learnku.com/go/t/31890) 
